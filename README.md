@@ -15,3 +15,16 @@ Un itinerario di 5 giorni attraverso i passi più spettacolari delle Dolomiti pe
 3. Esplora l'itinerario giorno per giorno
 
 ## 📁 Struttura
+tour-dolomiti-moto/
+├── assets/
+│ ├── css/
+│ ├── images/
+│ └── js/
+├── downloads/
+│ ├── checklist/
+│ ├── gpx/
+│ └── pdf/
+└── index.html
+
+## 📞 Contatti
+Per informazioni sul tour: [inserisci contatti]
